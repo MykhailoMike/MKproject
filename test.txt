@@ -1,0 +1,2 @@
+Definitely, this is a good day!
+Эти данные должны быть введены в массив
